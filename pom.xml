@@ -15,7 +15,7 @@
     </properties>
 
     <build>
-        <finalName>myapp</finalName>
+        <finalName>web</finalName>
     </build>
 
     <dependencies>
